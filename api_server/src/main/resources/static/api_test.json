@@ -1,0 +1,154 @@
+[
+    {
+        "count": 0,
+        "secDiffTime": 33
+    },
+    {
+        "count": 10000,
+        "secDiffTime": 38
+    },
+    {
+        "count": 20000,
+        "secDiffTime": 73
+    },
+    {
+        "count": 30000,
+        "secDiffTime": 113
+    },
+    {
+        "count": 40000,
+        "secDiffTime": 168
+    },
+    {
+        "count": 50000,
+        "secDiffTime": 232
+    },
+    {
+        "count": 60000,
+        "secDiffTime": 322
+    },
+    {
+        "count": 70000,
+        "secDiffTime": 421
+    },
+    {
+        "count": 80000,
+        "secDiffTime": 513
+    },
+    {
+        "count": 90000,
+        "secDiffTime": 644
+    },
+    {
+        "count": 100000,
+        "secDiffTime": 773
+    },
+    {
+        "count": 110000,
+        "secDiffTime": 957
+    },
+    {
+        "count": 120000,
+        "secDiffTime": 1135
+    },
+    {
+        "count": 130000,
+        "secDiffTime": 1310
+    },
+    {
+        "count": 140000,
+        "secDiffTime": 1523
+    },
+    {
+        "count": 150000,
+        "secDiffTime": 1700
+    },
+    {
+        "count": 160000,
+        "secDiffTime": 1964
+    },
+    {
+        "count": 170000,
+        "secDiffTime": 2225
+    },
+    {
+        "count": 180000,
+        "secDiffTime": 2430
+    },
+    {
+        "count": 190000,
+        "secDiffTime": 3032
+    },
+    {
+        "count": 200000,
+        "secDiffTime": 3032
+    },
+    {
+        "count": 210000,
+        "secDiffTime": 3471
+    },
+    {
+        "count": 220000,
+        "secDiffTime": 3933
+    },
+    {
+        "count": 230000,
+        "secDiffTime": 4246
+    },
+    {
+        "count": 240000,
+        "secDiffTime": 4458
+    },
+    {
+        "count": 250000,
+        "secDiffTime": 4822
+    },
+    {
+        "count": 260000,
+        "secDiffTime": 5688
+    },
+    {
+        "count": 270000,
+        "secDiffTime": 5761
+    },
+    {
+        "count": 280000,
+        "secDiffTime": 5782
+    },
+    {
+        "count": 290000,
+        "secDiffTime": 6460
+    },
+    {
+        "count": 300000,
+        "secDiffTime": 7026
+    },
+    {
+        "count": 310000,
+        "secDiffTime": 7358
+    },
+    {
+        "count": 320000,
+        "secDiffTime": 7420
+    },
+    {
+        "count": 330000,
+        "secDiffTime": 7954
+    },
+    {
+        "count": 340000,
+        "secDiffTime": 8390
+    },
+    {
+        "count": 350000,
+        "secDiffTime": 8894
+    },
+    {
+        "count": 360000,
+        "secDiffTime": 9398
+    },
+    {
+        "count": 370000,
+        "secDiffTime": 9935
+    }
+]
